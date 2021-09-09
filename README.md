@@ -66,7 +66,7 @@ Technologies used : HTML, CSS, PHP, Bootstrap and XAMPP (Apache & MySql).
 
      4. Orders Page
 
-        This page shows the bookings done users for each tour along with the order id, tour id, date of journey along with other details of the user as requested on the orders page.
+        This page shows the bookings done by users for each tour along with the order id, tour id, date of journey along with other details of the user as requested on the orders page.
 
         ![Orders](screenshots/7.jpeg)
 
