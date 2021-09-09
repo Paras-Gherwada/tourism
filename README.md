@@ -54,7 +54,7 @@ Technologies used : HTML, CSS, PHP, Bootstrap and XAMPP (Apache & MySql).
 
      2. View Tours
 
-        An alternately striped table showing the details of active tours along with "Add Tour" and "Delete Tour" feature. Changes made will be relected to the tour list in homepage.
+        An alternately striped table showing the details of active tours along with "Add Tour" and "Delete Tour" feature. Changes made will be reflected to the tour list in homepage.
 
         ![View Tours](screenshots/5.jpeg)
 
@@ -66,13 +66,13 @@ Technologies used : HTML, CSS, PHP, Bootstrap and XAMPP (Apache & MySql).
 
      4. Orders Page
 
-        This page shows the bookings done by users for each tour along with the order id, tour id, date of journey along with other details of the user as requested on the orders page.
+        This page shows the bookings done by users for each tour along with the order id, tour id, date of journey and other details of the user as requested on the orders page.
 
         ![Orders](screenshots/7.jpeg)
 
      5. Website Settings Page
 
-        Over here the admin can update their communication details and / or website name. Any changes made will be relected back on the homepage and other associated pages.
+        Over here the admin can update their communication details and / or website name. Any changes made will be reflected back on the homepage and other associated pages.
 
         ![Settings](screenshots/8.jpeg)
 
